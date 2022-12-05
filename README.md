@@ -1,4 +1,4 @@
-# BigDecimalInt
+# BigDecimalInt-Class
 The type int exist in C++ and other languages is limited 
 by min and max values depending on the number of bytes used to store the number. We need 
 versions with unlimited bounds.
